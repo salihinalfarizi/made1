@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">FirstSub MADE</string>
+    <string name="pc">Gambar Utama</string>
+    <string name="film_name">Judul Film</string>
+    <string name="genre_film">Genre Film</string>
+    <string name="pc_bg">Gambar Background</string>
+    <string name="tgl">Tanggal Rilis</string>
+    <string name="durasi_film">Durasi Movies</string>
+    <string name="nama_sutradara"> Nama Sutradara</string>
+    <string name="rating">9.9</string>
+    <string name="icon_star">Icon Star</string>
+
+
+    <array name="background_picture">
+        <item>@drawable/bg_perempuan</item>
+        <item>@drawable/bg_bumimanusia</item>
+        <item>@drawable/bg_gundala</item>
+        <item>@drawable/bg_anakiblis</item>
+        <item>@drawable/bg_bebas</item>
+        <item>@drawable/bg_dki</item>
+        <item>@drawable/bg_duagaris</item>
+        <item>@drawable/bg_hitnrun</item>
+        <item>@drawable/bg_love4sale</item>
+        <item>@drawable/bg_pretty</item>
+        <item>@drawable/bg_ratu</item>
+        <item>@drawable/bg_sayiloveu</item>
+        <item>@drawable/bg_susi</item>
+        <item>@drawable/bg_twifortiare</item>
+    </array>
+
+    <string-array name="rating">
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>9.4</item>
+        <item>7.5</item>
+        <item>9.6</item>
+        <item>5.8</item>
+        <item>9.1</item>
+        <item>9.6</item>
+        <item>9.2</item>
+        <item>9.6</item>
+        <item>8.6</item>
+        <item>9.1</item>
+        <item>9.8</item>
+        <item>9.1</item>
+    </string-array>
+
+    <array name="main_picture">
+        <item>@drawable/pf_prempuan</item>
+        <item>@drawable/pf_bumimanusia</item>
+        <item>@drawable/pf_gundala</item>
+        <item>@drawable/pf_anakiblis</item>
+        <item>@drawable/pf_bebas</item>
+        <item>@drawable/pf_dki</item>
+        <item>@drawable/pf_duagaris</item>
+        <item>@drawable/pf_hitnrun</item>
+        <item>@drawable/pf_love4sale</item>
+        <item>@drawable/pf_pretty</item>
+        <item>@drawable/pf_ratu</item>
+        <item>@drawable/pf_sayiloveu</item>
+        <item>@drawable/pf_susi</item>
+        <item>@drawable/pf_twivotiare</item>
+    </array>
+
+    <string-array name="film_name">
+        <item>Perempuan Tanah Jahanam</item>
+        <item>Bumi Manusia</item>
+        <item>Gundala</item>
+        <item>Kembalinya Anak Iblis</item>
+        <item>Bebas</item>
+        <item>Warkop DKI Reborn</item>
+        <item>Dua Garis Biru</item>
+        <item>Hit And Run</item>
+        <item>Love For Sale 2</item>
+        <item>Pretty Boys</item>
+        <item>Ratu Ilmu Hitam</item>
+        <item>Say I Love You</item>
+        <item>Susi Susanti - Love All</item>
+        <item>Twivortiare</item>
+    </string-array>
+
+    <string-array name="tgl_release">
+        <item>17 Oktober 2019</item>
+        <item>15 Agustus 2019</item>
+        <item>29 Agustus 2019</item>
+        <item>5 September 2019</item>
+        <item>3 Oktober 2019</item>
+        <item>12 September 2019</item>
+        <item>11 Juli 2019</item>
+        <item>4 Juni 2019</item>
+        <item>31 Oktober 2019</item>
+        <item>19 September 2019</item>
+        <item>7 November 2019</item>
+        <item>4 Juli 2019</item>
+        <item>24 Oktober 2019</item>
+        <item>29 Agustus 2019</item>
+    </string-array>
+
+    <string-array name="duration">
+        <item>1j 46m</item>
+        <item>3j 1m</item>
+        <item>2j 3m</item>
+        <item>1j 24m</item>
+        <item>1j 59m</item>
+        <item>1j 40m</item>
+        <item>1j 53m</item>
+        <item>1j 54m</item>
+        <item>1j 34m</item>
+        <item>1j 40m</item>
+        <item>1j 39m</item>
+        <item>1j 46m</item>
+        <item>1j 36m</item>
+        <item>1j 43m</item>
+    </string-array>
+
+    <string-array name="director_name">
+        <item>Joko Anwar</item>
+        <item>Hanung Bramantyo</item>
+        <item>Joko Anwar</item>
+        <item>Rudi Soedjarwo</item>
+        <item>Riri Riza</item>
+        <item>Rako Prijanto</item>
+        <item>Ginatri S. Noer</item>
+        <item>Ody C. Harahap</item>
+        <item>Andy Bachtiar Yusuf</item>
+        <item>Tompi</item>
+        <item>Kimo Stamboel</item>
+        <item>Faozan Rizal</item>
+        <item>Sim F.</item>
+        <item>Benni Setiawan</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Horor</item>
+        <item>Drama, Sejarah</item>
+        <item>Drama, Laga</item>
+        <item>Horor</item>
+        <item>Drama, Komedi</item>
+        <item>Komedi</item>
+        <item>Drama, Keluarga</item>
+        <item>Komedi, Laga</item>
+        <item>Drama, Romantis</item>
+        <item>Drama, Komedi</item>
+        <item>Horor</item>
+        <item>Drama</item>
+        <item>Biografi, Drama, Olahraga</item>
+        <item>Drama, Romantis</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Maya (Tarao Basro) jatuh bangun hidup di kota tanpa keluarga, ia hanya memiliki sahabat bernama Dini. Saat usaha bersama mereka membutuhkan modal lebih, Maya yang mendapatkan informasi bahwa dia mungkin memiliki harta warisan dari keluarganya yang kaya di desa, membuatnya pergi mengunjungi kampung halaman yang tak pernah dikenalnya itu. Sesampainya di kampung yang jauh terpencil di tengah hutan, Maya dan Dini sampai di rumah besar yang kosong. Situasi sekitar juga terlihat aneh, salah satunya banyak kuburan anak-anak. Hingga pada suatu malam, Maya mendengar jeritan perempuan yang hendak melahirkan. Maya menuju asal suara dan menyaksikan proses kelahiran anak tersebut. Dari situlah, sedikit demi sedikit, misteri kampung yang kini ditinggali Maya dan Dini mulai terungkap.</item>
+        <item>Ini adalah kisah dua anak manusia yang meramu cinta di atas pentas pergelutan tanah kolonial awal abad 20. Inilah kisah Minke dan Annelies. Cinta yang hadir di hati Minke untuk Annelies, membuatnya mengalami pergulatan batin tak berkesudahan. Dia, pemuda pribumi, Jawa totok. Sementara Annelies, gadis Indo Belanda anak seorang Nyai. Bapak Minke yang baru saja diangkat jadi Bupati, tak pernah setuju Minke dekat dengankeluarga Nyai, sebab posisi Nyai di masa itu dianggap sama rendah dengan binatang peliharaan.</item>
+        <item>Sancaka hidup di jalanan sejak ditinggal ayah dan ibunya. Menghadapi hidup yang keras, Sancaka belajar untuk bertahan hidup dengan tidak peduli dengan orang lain dan hanya mencoba untuk mendapatkan tempat yang aman bagi dirinya sendiri. Ketika situasi kota semakin tidak aman dan ketidakadilan merajalela di seluruh negeri, Sancaka harus buat keputusan yang berat, tetap hidup di zona amannya, atau keluar sebagai Gundala untuk membela orang-orang yang ditindas.</item>
+        <item>Rama, Garin, Farel, Quncy dan Celsi selamat dari terror arwah penasaran di resort Pulau Ayunan yang ternyata menyimpan sejarah mengerikan tentang pembantaian satu keluarga dan karyawan resort. Rama sangat kalut. Kekasihnya masuk rumah sakit jiwa, adiknya, Hana hingga kini jenazahnya belum ditemukan bersama jenazah Fira. Rama memutuskan untuk kembali ke pulau Ayunan untuk mencari jenazah adiknya dan Fira. Dengan panduan sebuah kitab kuno “13 cara menutup Gapuro Tentrem” alias mengembalikan semua arwah penasaran itu pada alamnya hingga tak mengganggu manusia dan memakan korban nyawa lagi, mereka berusaha menemukan jenazah Hana dan Fira, sekaligus menutup terror di Pulau Ayunan selamanya</item>
+        <item>Vina (Maizura), seorang remaja SMA yang berasal dari sebuah kota kecil di Jawa Barat, baru saja pindah ke SMA Negeri bergengsi di ibu kota Jakarta. Pada hari pertama di sekolah, Vina ditertawakan karena logat bicaranya dan juga diintimidasi oleh seorang siswa cowok. Beruntung, Vina ditolong dan dibantu beradaptasi oleh empat cewek dan seorang cowok yang disegani di sekolah. Ada Kris (Sheryl Sheinafia) sang pemimpin, Jessica (Agatha Pricilla) yang lucu dan terobsesi pada kecantikan, Gina (Zulfa Maharani) yang pemberani dan anak terkaya di grup, Suci (Lutesha) yang cantik dan misterius, serta Jojo (Baskara Mahendra) satu-satunya cowok dalam pertemanan mereka. Vina dengan cepat menjadi bagian dari geng mereka, yang lalu dikenal dengan nama GENG BEBAS. Kebersamaan mereka terusik saat terjadi peristiwa tragis yang menyebabkan keenam sahabat ini harus dipisahkan.</item>
+        <item>Warkop DKI - Dono, Kasino, Indro kali ini mendapat tugas sebagai agen polisi rahasia. Mereka dibawah komando Komandan Cok, yang kehilangan tangan kanannya, Karman, saat mensinyalir adanya money laundry di dunia perfilman Indonesia. Tepatnya di sebuah PH yang dimiliki Amir Muka. Warkop DKI akhirnya bisa masuk dalam dunia film dan terlibat dalam sebuah pembuatan film komedi berpasangan dengan artis sinetron yang hijrah ke dunia film, Inka. Saat party, Warkop DKI yang sedang menyelidiki malah membuat Inka terjebak bersama mereka di sebuah ruangan. Warkop DKI dan Inka jatuh pingsan. Saat terbangun, Warkop DKI kaget karena berada di padang pasir! Tapi Inka lenyap! Pencarian Warkop DKI mencari jejak Inka, malah menyeret mereka dalam petualangan seru di padang pasir...</item>
+        <item>Bima dan Dara adalah sepasang kekasih yang masih duduk di bangku SMA. Pada usia 17 tahun, mereka nekat bersanggama di luar nikah. Dara pun hamil. Keduanya kemudian dihadapkan pada kehidupan yang tak terbayangkan bagi anak seusia mereka, kehidupan sebagai orangtua</item>
+        <item>Tegar Saputra, seorang polisi selebriti yang kemana-mana selalu diikuti kamera karena memiliki acara reality shownya sendiri. Tegar ditugaskan untuk menangkap Coki (Yayan Ruhian), seorang gembong narkoba yang baru kabur dari penjara. Sayangnya, di misi kali ini Tegar yang individualis harus dipasangkan dengan Lio, seorang tukang tipu. Tegar yang terbiasa beraksi sendirian kini harus berusaha menyelesaikan misinya bersama Lio yang justru membuat susah. Aksi Tegar dan Lio mencari Coki ditemanin Meisa seorang penyanyi dan Jefri.</item>
+        <item>Seperti ibu pada umumnya, Ros memiliki harapan untuk melihat ketiga anaknya hidup layak dan bahagia. Namun, anak-anaknya kerap menentukan pilihan hidup yang bertentangan dengan kemauan Ros. Anandoyo "Ndoy" Tauhid Sikumbang, anak sulung kesayangan Ros, salah memilih istri. Sedangkan anak bungsu Ros, Yunus "Buncun" Tauhid Sikumbang, terjebak pergaulan bebas hingga harus menikah muda. Harapan Ros bertaruh pada anak tengah keluarga Sikumbang, Indra "Ican" Tauhid Sikumbang. Sayangnya, menikah bukanlah prioritas Ican. Tertekan akan desakan ibunya, Ican memutuskan untuk memesan calon menantu palsu lewat aplikasi Love Inc. Demi menyenangkan hati Ros, apakah rencana Ican berhasil? Akankah Rosmaida mencapai harapan sejatinya?</item>
+        <item>Rahmat (Deddy Mahendra Desta) dan Anugerah (Vincent Rompies) adalah dua sahabat yang sejak kecil bercita-cita ingin terkenal. Namun, Anugerah selalu mendapat tentangan dari Ayahnya, Pak Jono (Roy Marten), bahwa dunia entertainment dekat dengan hal-hal yang buruk. Karena kesal, Anugerah pun kabur dari daerahnya dan mengadu nasib ke Jakarta bersama Rahmat. Namun, nasib berkata lain. Karier mereka hanya mentok menjadi pelayan dan koki restoran. Untunglah, ada Asty (Danilla Riyadi) yang selalu menjadi penyejuk bagi keseharian Anugerah. Hingga suatu hari, Anugerah dan Rahmat yang sedang menjadi penonton bayaran di sebuah acara bincang-bincang “Kembang Gula” bertemu Roni (Onadio Leonardo), koordinator penonton super rempong, dan Mas Bayu (Imam Darto). Apakah pertemuan ini akan menjadi pembuka jalan bagi impian Rahmat dan Anugerah?</item>
+        <item>Hanif membawa Nadya istrinya dan ketiga anak mereka ke panti asuhan tempat Hanif dulu dibesarkan. Pengasuh panti itu, Pak Bandi, sudah sangat tua dan sakit keras, Hanif datang untuk menjenguk setelah bertahun-tahun tidak bertemu. Bukan cuma Hanif yang datang berkunjung, tapi juga dua sahabat Hanif saat tinggal di panti, Anton dan Jefri yang membawa istri-istri mereka. Malam itu mereka semua tiba di panti asuhan yang terletak di luar kota dan jauh dari pemukiman penduduk itu. Mereka bermaksud bermalam di sana untuk memberikan penghormatan terakhir buat orang yang telah mengasuh mereka sejak kecil. Mereka menyangka malam itu akan jadi malam yang penuh kedamaian. Mereka segera memahami bahwa mereka salah.</item>
+        <item>Sheren (Dinda Hauw) tidak hanya mengejar mimpinya, tetapi dia juga berjuang demi cinta. Sheren adalah seorang yang energik, penuh ide dan penuh harapan yang diam-diam dikagumi Robet (Alvaro Maldini) yang adalah seorang pemuda yang tengil dan selalu bikin masalah. Bersama dengan Sayydah, Olfa, Yohana, dan Ridwan, Sheren mencoba membangun kembali reputasi sekolah mereka sehingga sekolah lain tidak akan meremehkan mereka. Sheren punya ikatan yang kuat dengan sekolah yang telah memberinya sejuta impian dan harapan. Sayang, tidaklah mudah bagi Sheren maupun Robet untuk memperjuangkan cinta mereka. Karena aturan ketat yang diberlakukan oleh sekolah.</item>
+        <item>Susi Susanti menjadi sensasi bulutangkis pada usia 14 tahun dan berkembang menjadi atlet paling dicintai di Indonesia. Melalui bimbingan pelatihnya, Liang Chiu Sia, dan didorong oleh janji suci pada ayahnya, Susi mendapat pengakuan dunia dengan meraih medali emas Olimpiade pertama untuk Indonesia. Ketika sang negeri terjungkal dalam gejolak ekonomi, Susi membuktikan pada dunia bahwa kepahlawanan tidak diukur dari tingginya prestasi, tetapi dari besarnya pengorbanan untuk tanah airnya. Tekad dan cinta Susi kepada Tuhan, keluarga, dan pasangan hidupnya-lah yang mengukir sejarah olahraga Indonesia.</item>
+        <item>Pertama mereka bertemu, langsung jatuh cinta. Dalam hitungan bulan, mereka menikah. Setelah dua tahun, setelah lelah dengan semua konflik dan pertengkaran yang tak berujung, akhirnya, sang Dokter Bedah yang super sibuk, Beno Wicaksono (REZA RAHARDIAN), dan Sang Bankir sukses, Alexandra Rhea (RAIHAANUN) memutuskan untuk bercerai.</item>
+
+    </string-array>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sinopsis_film">Sinopsis Film</string>
+    <string name="deskripsi_film">Deskripsi Singkat Film</string>
+</resources>
